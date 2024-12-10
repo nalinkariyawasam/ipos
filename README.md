@@ -1,16 +1,22 @@
-# ipos
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+All Features
+- Splash Screen.
+- Login and Registration Screen.
+- Forget Password and Reset Password Screen.
+- Home Screen.
+- Product Screen.
+- Add Product Screen.
+- Product Details Screen.
+- Cart Screen.
+- Checkout Screen.
+- Order History Screen.
+- Profile Screen.
+- Vat Settings Screen.
+- Add Shop Details Screen.
+- Add Unit Screen.
+- Add Category Screen.
+- Download Database Screen.
+- Upload Database Screen.
+- Invoice Screen.
+- Stock Screen.
+- Issue Screen.
+- Change Password Screen.
